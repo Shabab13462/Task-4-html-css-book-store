@@ -22,6 +22,8 @@ nav {
     justify-content: space-evenly;
     position: sticky;
     top: 0;
+    background-color: #9f9b9b;
+    padding-bottom: 20px;
 }
 
 nav a {
@@ -121,4 +123,10 @@ section {
 section h3 {
     font-size: medium;
     padding: 10px;
+}
+
+
+section p {
+    font-size: smaller;
+    padding-top: 10px;
 }
